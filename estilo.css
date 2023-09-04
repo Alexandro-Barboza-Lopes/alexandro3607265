@@ -1,0 +1,14 @@
+body {
+background-color: black;
+justify-content: space-between;
+align-items: center;
+color: blue;
+font-family:'Courier New', Courier, monospace;
+display:flex;
+list-style-type: name;
+padding: 16px;
+}
+a {
+color: blue;
+text-decoration: none;
+}
